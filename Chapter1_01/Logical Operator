@@ -1,0 +1,6 @@
+let age = 22;
+let Adult = true;
+
+console.log(age >= 18 && Adult);
+console.log(age < 18 || Adult);
+console.log(!Adult);
