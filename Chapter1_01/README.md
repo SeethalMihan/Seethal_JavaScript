@@ -9,6 +9,7 @@ and variables.
 |---|---|
 | Basic output, addition, and odd/even checks | `01_Basics.js`, `02_Basic.js`, `03_Sum.js`, `04_OddEven.js` |
 | Arithmetic and compound assignment | `ArithmaticOperator.js`, `compoundoperator.js` |
+| Increment and nullish coalescing | `IncreamentOperator.js`, `nullishoperator.js` |
 | Comparisons and equality | `Comparisonoperator.js`, `StrictComparison.js`, `Loosestrict.JS` |
 | Logical and conditional operators | `Logicaloperator.js`, `Logical Operator`, `Ternary operator.js` |
 | String concatenation | `String Concatenation Operator.js` |
